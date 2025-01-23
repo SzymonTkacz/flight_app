@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mZF1Sy35iF0BKC7JIqau8e4umK1bEMnGfq0iZ3u+b/M=",
+  "Source": "flight_app",
+  "BasePath": "_content/flight_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

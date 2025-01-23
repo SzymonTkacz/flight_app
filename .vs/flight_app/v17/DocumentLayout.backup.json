@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekty_2025\\flight_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\models\\tenants\\tenanta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\models\\tenants\\tenanta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\models\\tenants\\tenantb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\models\\tenants\\tenantb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\models\\tenants\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\models\\tenants\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\services\\discountengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\services\\discountengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\models\\discounts\\africathursdaydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\models\\discounts\\africathursdaydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\models\\discounts\\birthdaydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\models\\discounts\\birthdaydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\interfaces\\idiscountcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\interfaces\\idiscountcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|d:\\projekty_2025\\flight_app\\flight_app\\models\\flightprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118136B2-E2D6-48BC-A018-6E314CFD1684}|flight_app\\flight_app.csproj|solutionrelative:flight_app\\models\\flightprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Program.cs",
+              "RelativeDocumentMoniker": "flight_app\\Program.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Program.cs",
+              "RelativeToolTip": "flight_app\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:45:14.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "flight_app\\Services\\BookingService.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Services\\BookingService.cs",
+              "RelativeToolTip": "flight_app\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:44:29.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TenantB.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Tenants\\TenantB.cs",
+              "RelativeDocumentMoniker": "flight_app\\Models\\Tenants\\TenantB.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Tenants\\TenantB.cs",
+              "RelativeToolTip": "flight_app\\Models\\Tenants\\TenantB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:41:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TenantA.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Tenants\\TenantA.cs",
+              "RelativeDocumentMoniker": "flight_app\\Models\\Tenants\\TenantA.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Tenants\\TenantA.cs",
+              "RelativeToolTip": "flight_app\\Models\\Tenants\\TenantA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:40:14.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Tenants\\Tenant.cs",
+              "RelativeDocumentMoniker": "flight_app\\Models\\Tenants\\Tenant.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Tenants\\Tenant.cs",
+              "RelativeToolTip": "flight_app\\Models\\Tenants\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:39:09.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiscountEngine.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Services\\DiscountEngine.cs",
+              "RelativeDocumentMoniker": "flight_app\\Services\\DiscountEngine.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Services\\DiscountEngine.cs",
+              "RelativeToolTip": "flight_app\\Services\\DiscountEngine.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:37:59.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AfricaThursdayDiscount.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Discounts\\AfricaThursdayDiscount.cs",
+              "RelativeDocumentMoniker": "flight_app\\Models\\Discounts\\AfricaThursdayDiscount.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Discounts\\AfricaThursdayDiscount.cs",
+              "RelativeToolTip": "flight_app\\Models\\Discounts\\AfricaThursdayDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:36:28.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BirthdayDiscount.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Discounts\\BirthdayDiscount.cs",
+              "RelativeDocumentMoniker": "flight_app\\Models\\Discounts\\BirthdayDiscount.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Discounts\\BirthdayDiscount.cs",
+              "RelativeToolTip": "flight_app\\Models\\Discounts\\BirthdayDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:34:48.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDiscountCriteria.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Interfaces\\IDiscountCriteria.cs",
+              "RelativeDocumentMoniker": "flight_app\\Interfaces\\IDiscountCriteria.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Interfaces\\IDiscountCriteria.cs",
+              "RelativeToolTip": "flight_app\\Interfaces\\IDiscountCriteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:32:52.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "flight_app\\Models\\Flight.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Flight.cs",
+              "RelativeToolTip": "flight_app\\Models\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:31:07.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "flight_app\\Models\\Passenger.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\Passenger.cs",
+              "RelativeToolTip": "flight_app\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:30:10.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightPrice.cs",
+              "DocumentMoniker": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\FlightPrice.cs",
+              "RelativeDocumentMoniker": "flight_app\\Models\\FlightPrice.cs",
+              "ToolTip": "D:\\Projekty_2025\\flight_app\\flight_app\\Models\\FlightPrice.cs",
+              "RelativeToolTip": "flight_app\\Models\\FlightPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:32:15.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
